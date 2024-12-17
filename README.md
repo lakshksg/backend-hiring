@@ -4,7 +4,7 @@ there is a list of customers in the Site table. Each customer has a unique id an
 
 1. create a datastructure/store to store type of job based on their execution time. you can assume time in seconds and there are 5 types of jobs.
 2. create a datastructure/store to store type of customer based on their record volume. large volume customers will tend to comsume more resources. you can assume there are 3 types of customers.
-3. create appropriate apis to add/move customers from one type to another.
+3. create relevant apis to support the interactions.
 4. create workers which will pick up the job based on the customer type and job type and execute them. you can assume that each worker can execute only one job at a time.
 
 refer website/models.py for Site Table <br>
