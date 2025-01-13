@@ -12,6 +12,9 @@ refer website/tasks.py for the tasks to be executed
 
 you can use any database, message queue, etc. to store the data. you can use any library to create the workers or any other part of the system. you can create any number of files, classes, functions, etc. to complete the assignment.
 
+## Hint:
+greedy neighbour / noisy neighbour problem
+
 # Setup:
 
 ```
